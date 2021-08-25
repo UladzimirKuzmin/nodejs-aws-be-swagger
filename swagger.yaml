@@ -4,8 +4,6 @@ info:
   title: product-service-dev
   version: 1.0.0
 servers:
-- url: https://virtserver.swaggerhub.com/nodejs-aws-be-vk/nodejs-aws-be/1.0.0
-  description: SwaggerHub API Auto Mocking
 - url: https://1ddl9jja42.execute-api.eu-west-1.amazonaws.com/{basePath}
   variables:
     basePath:
